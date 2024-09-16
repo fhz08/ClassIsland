@@ -15,7 +15,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 #### [ClassIsland 网站](https://classisland.tech/)｜[ClassIsland 文档](https://docs.classisland.tech/)｜[QQ 频道](https://pd.qq.com/s/scb3wzia)
 
-###### [观看介绍视频，快速了解突破创新 →](https://bilibili.com/video/BV1Lt421n7op/)
+###### [观看介绍视频，快速了解Classisland →](https://bilibili.com/video/BV1Lt421n7op/)
 </div>
 
 ## 功能
